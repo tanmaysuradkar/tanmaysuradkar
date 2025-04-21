@@ -1,4 +1,4 @@
-# Hey there! 👋  
+### Hi there! 👋  
 I'm **Tanmay** — a curious **Software Engineer** and a creative **Artist** from *Chhatrapati Sambhajinagar*, Maharashtra 🇮🇳.
 
 ## 🧠 Currently diving deep into:
