@@ -20,34 +20,7 @@ I'm **Tanmay** — a curious **Software Engineer** and a creative **Artist** fro
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,vscode,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmaysuradkar&show_icons=true&theme=tokyonight" alt="Tanmay's GitHub stats" />
-</p>
-
----
-
-## 🖼️ GitHub Streak & Top Languages
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaysuradkar&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysuradkar&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
-## 📈 Contribution Graph
-[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmaysuradkar&theme=react-dark)](https://github.com/tanmaysuradkar)
-
----
-
-## 👁️ Visitor Badge
-<p>
-  <img src="https://komarev.com/ghpvc/?username=tanmaysuradkar&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,express,mongodb,python,vscode" />
 </p>
 
 ---
