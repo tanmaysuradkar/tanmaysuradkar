@@ -1,6 +1,6 @@
 ### Hi there! 👋  
 I'm **Tanmay** — a curious **Software Engineer** and a creative **Artist** from *Chhatrapati Sambhajinagar*, Maharashtra 🇮🇳.
-
+Yes life time you with a not me but I all way with you coding
 ## Currently diving deep into:
 - **DSA (Data Structures & Algorithms)**
 - **Machine Learning & Deep Learning**
